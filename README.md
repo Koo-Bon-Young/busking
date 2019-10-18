@@ -13,10 +13,10 @@ Buskers
   - 거리공연을 하는 아티스트들에게는 홍보 수단을 제공
 
 ## 소개 영상
-[![Video Label](http://img.youtube.com/vi/40c5HzLNzO8/0.jpg)](https://youtu.be/40c5HzLNzO8?t=0s)
+[![Video Label](http://img.youtube.com/vi/40c5HzLNzO8/0.jpg)](https://youtu.be/40c5HzLNzO8?t=0s){: target="_blank"}
 
 ## 발표 영상
-[![Video Label](http://img.youtube.com/vi/4Wl7cpB9ulw/0.jpg)](https://youtu.be/4Wl7cpB9ulw?t=30s)
+[![Video Label](http://img.youtube.com/vi/4Wl7cpB9ulw/0.jpg)](https://youtu.be/4Wl7cpB9ulw?t=30s){: target="_blank"}
 
 ## 사용기술
 - Back-End
