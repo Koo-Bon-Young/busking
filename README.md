@@ -15,13 +15,13 @@ Buskers
 ## 소개 영상
 [![Video Label](http://img.youtube.com/vi/40c5HzLNzO8/0.jpg)](https://youtu.be/40c5HzLNzO8?t=0s)  
 ```
-클릭 시 영상을 볼 수 있습니다.
+이미지 클릭 시 영상을 볼 수 있습니다.
 ```
 
 ## 발표 영상
 [![Video Label](http://img.youtube.com/vi/4Wl7cpB9ulw/0.jpg)](https://youtu.be/4Wl7cpB9ulw?t=0s)  
 ```
-클릭 시 영상을 볼 수 있습니다.
+이미지 클릭 시 영상을 볼 수 있습니다.
 ```
 
 ## 사용기술
