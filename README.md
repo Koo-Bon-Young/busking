@@ -13,22 +13,41 @@ Buskers
   - 거리공연을 하는 아티스트들에게는 홍보 수단을 제공
 
 ## 소개 영상
-[![Video Label](http://img.youtube.com/vi/40c5HzLNzO8/0.jpg)](https://youtu.be/40c5HzLNzO8?t=0s){: target="_blank"}
+[![Video Label](http://img.youtube.com/vi/40c5HzLNzO8/0.jpg)](https://youtu.be/40c5HzLNzO8?t=0s)  
+```
+클릭 시 영상을 볼 수 있습니다.
+```
 
 ## 발표 영상
-[![Video Label](http://img.youtube.com/vi/4Wl7cpB9ulw/0.jpg)](https://youtu.be/4Wl7cpB9ulw?t=30s){: target="_blank"}
+[![Video Label](http://img.youtube.com/vi/4Wl7cpB9ulw/0.jpg)](https://youtu.be/4Wl7cpB9ulw?t=0s)  
+```
+클릭 시 영상을 볼 수 있습니다.
+```
 
 ## 사용기술
 - Back-End
 
-  - spring, node.js, mybatis, mysql
+  - spring
+  - node.js
+  - mybatis
+  - mysql
+  
 - Front-End
 
-  - jsp, jQuery, html/css/javascript, d3.js, daum map, openweathermap 등 api
+  - jsp
+  - jquery
+  - html/css/javascript
+  - d3.js
+  - daum map
+  - openweathermap 등.. api
   
 - 협업도구
 
-  - sourcetree, trello, google drive, google hangout
+  - github
+  - sourcetree
+  - trello
+  - google drive
+  - google hangout
   
 ## 주요기능
 크게 두 가지 기능으로 나뉘어져 있으며, 이해를 돕기 위해 **사용자 메인 페이지**와 **아티스트 페이지** 로 구분하였다
@@ -121,7 +140,16 @@ Buskers
   처음으로 하는 규모가 큰 프로젝트이다 보니 프론트 부분을 라이브러리를 이용하지 않고 직접 모두 개발하느라 고생을 하였다
 
 
+## 주요 이미지
 
+![11](./img/11.png)  
+![11](./img/22.png)  
+![11](./img/33.png)  
+![11](./img/44.png)  
+![11](./img/55.png)  
+![11](./img/66.png)  
+![11](./img/77.png)  
+![11](./img/88.png)
 
 
 
